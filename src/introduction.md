@@ -15,4 +15,4 @@ Lucidly Finance is an overcollateralised stablecoin lending protocol designed to
 
 The protocol uses governance to vote on gauges to use the collateral to earn yield on other defi money markets like yearn vaults, morpho aave, gearbox etc.
 
-- [Good ol' Vitalik's post on stablecoins](https://vitalik.ca/general/2022/12/05/excited.html)
+- [Good ol' Vitalik's post on stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
