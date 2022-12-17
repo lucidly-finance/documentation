@@ -54,11 +54,15 @@ Let's assume we can tolerate the price of 1 uLCD between $0.98 and $1.02, these 
 
 Therefore, we need to make \\(r_P\\) adaptive in the following way:
 
+
+$$r_P(t) = k_c\Delta P$$
 $$r_P(t) = k_c(1+T_c(t))\Delta P, if |\Delta P| > 0.02$$
 
-<!-- $$r_P(t) = k_P\Delta P, if |\Delta P| < 0.02$$ -->
+Here \\(T_c\\) is a positive factor that grows while the peg stays above $1.02 or below $0.98 and decreses otherwise:
 
-Where 
+$$T_c(t+\Delta t) = \\{T_c(t) + \beta \Delta t\\}$$
+
+<!-- $$r_P(t) = k_P\Delta P, if |\Delta P| < 0.02$$ -->
 
 <!-- $$r_i(t + \Delta t) = max\\{r_i(t) + k_i(\Delta P)\Delta t, r_lin(t)\\}$$ -->
 
