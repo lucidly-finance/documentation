@@ -10,4 +10,4 @@ Listing of gauges will be permissioned by governance and must suffice two proper
 - Immediate withdrawal - as vaults could be closed anytime through users or liquidation.
 - High smart contract security - only highly proven staking opportunities can be utilized. 
 
-veLCD allocated to each gauge is referred to as it's "gauge weight". Voters can distribute their voting power across multiple gauges or just one gauge.
+bLCD(bonded LUCID) allocated to each gauge is referred to as it's "gauge weight". Voters can distribute their voting power across multiple gauges or just one gauge.

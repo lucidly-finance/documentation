@@ -11,7 +11,9 @@ Under-collateralized algorithmic stablecoins are backed by endogenous assets and
 
 We've come up with a novel mechanism of cross/isolated Vaults which allow depositors to hedge risks with multiple assets and allows integration of risk management strategies on top of the protocol without much gas overhead. Lucidly relies on a protocol managed stability pool as the primary mechanism to liquidate risky Vaults.
 
-Lucidly Finance is an overcollateralised stablecoin lending protocol designed to offer efficient borrow rates and a robust dynamic interest rate to maintain peg. The first product is uLCD which soft-pegged to USD.
+### uLCD
+
+Lucidly Finance is an overcollateralised stablecoin lending protocol designed to offer efficient borrow rates and a robust dynamic interest rate to maintain peg. The first product is uLCD which is soft-pegged to USD.
 
 The protocol uses governance to vote on gauges to use the collateral to earn yield on other defi money markets like yearn vaults, morpho aave, gearbox etc.
 

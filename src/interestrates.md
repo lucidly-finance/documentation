@@ -1,6 +1,6 @@
 # Interest Rates and Price Stability
 
-Lucidly has a novel reactive interest rate mechanism that enforces peg stability by adjusting interest rates algorithmically.
+Lucidly has a novel reactive interest rate mechanism that enforces peg stability by adjusting interest rates algorithmically, involving minimal governance in the process.
 
 When uLCD is below the peg(i.e, the demand for uLCD is less as a result of too much supply), the interest rate increases, hence prompting Vault owners to repay their loan back. This increases demand for uLCD in the open market and hence will bring price up to 1 USD.
 
