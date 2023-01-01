@@ -11,3 +11,7 @@ Listing of gauges will be permissioned by governance and must suffice two proper
 - High smart contract security - only highly proven staking opportunities can be utilized. 
 
 bLCD(bonded LUCID) allocated to each gauge is referred to as it's "gauge weight". Voters can distribute their voting power across multiple gauges or just one gauge.
+
+- Users issue loans from the protocol and receive emissions.
+- They vote with LUCID on gauges for the collateral to make money.
+- Part of the yield is used to buy back and burn the LUCID token from open market.
