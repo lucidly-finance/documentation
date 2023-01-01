@@ -1,9 +1,0 @@
-[book]
-authors = ["@eth_sign"]
-language = "en"
-multilingual = false
-src = "src"
-title = "Lucidly Finance Documentation"
-
-[output.html]
-mathjax-support = true
